@@ -1,0 +1,52 @@
+{
+  "timeline": [
+    {
+      "date": "2022-03-11",
+      "improvement-tickets": [
+        {
+          "jiraTicketId": "YACC-0000",
+          "ticketURL": "https://www.google.com",
+          "targetedCWV": "CLS",
+          "description": "This is a description of the ticket"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-30",
+      "improvement-tickets": [
+        {
+          "jiraTicketId": "YACC-0001",
+          "ticketURL": "https://www.google.com",
+          "targetedCWV": "LCP",
+          "description": "This is a description of another ticket"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-19",
+      "improvement-tickets": [
+        {
+          "jiraTicketId": "YACC-0002",
+          "ticketURL": "https://www.google.com",
+          "targetedCWV": "LCP",
+          "description": "This is a description of another ticket"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-11",
+      "improvement-tickets": [
+        {
+          "jiraTicketId": "YACC-0003",
+          "ticketURL": "https://www.google.com",
+          "targetedCWV": "LCP",
+          "description": "This is a description of another ticket"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-01",
+      "event": "start measuring phone & all instead of only all devices combined"
+    }
+  ]
+}
